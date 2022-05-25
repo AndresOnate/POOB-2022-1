@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=SetCalculator
+comment0.text=\ SetCalculator.java\r\n\ \r\n\ @author\ ESCUELA\ 2022-01\r\n
+comment1.params=
+comment1.target=SetCalculator()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ SetCalculator\r\n
+comment2.params=nombre
+comment2.target=void\ create(java.lang.String)
+comment2.text=\ \r\n\ Create\ a\ new\ variable\r\n\ @param\ nombre\ Nombre\ de\ la\ variable\r\n
+comment3.params=set\ elements
+comment3.target=void\ assign(java.lang.String,\ java.lang.String[])
+comment3.text=\ \r\n\ Create\ and\ assign\ a\ set\ to\ an\ existing\ variable\r\n\ @param\ set\ Nombre\ del\ conjunto\ \r\n\ @param\ elements\ Elementos\ del\ conjunto\r\n
+comment4.params=a\ b\ op\ c
+comment4.target=void\ assign(java.lang.String,\ java.lang.String,\ char,\ java.lang.String)
+comment4.text=\ \r\n\ Assign\ the\ result\ of\ an\ operation\ to\ an\ existing\ variable\r\n\ a\ \=\ b\ op\ c\r\n\ The\ operator\ characters\ are\:\ \ 'u'\ union,\ 'i'\ intersection,\ '-'\ difference,\ '_'\ symmetric\ difference,\ 'x'\ cartesian\ product\r\n\ @param\ a\ existing\ variable\r\n\ @param\ b\ Conjunto\ 1\r\n\ @param\ op\ Operaci\u00F3n\ a\ realizar\r\n\ @param\ c\ \ conjunto\ 2\r\n\ @param\ elements\ Elementos\ del\ conjunto\r\n
+comment5.params=variable
+comment5.target=java.lang.String\ toString(java.lang.String)
+comment5.text=\ \r\n\ Returns\ the\ value\ of\ a\ set\r\n\ @param\ variable\r\n
+comment6.params=
+comment6.target=boolean\ ok()
+comment6.text=\ \r\n\ If\ the\ last\ operation\ was\ done\r\n
+comment7.params=
+comment7.target=java.util.HashMap\ getVariable()
+numComments=8
