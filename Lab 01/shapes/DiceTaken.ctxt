@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DiceTaken
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dice\ here.\r\n\ \r\n\ @author\ (Nicol\u00E1s\ Ariza,\ Andres\ O\u00F1ate)\ \r\n\ @version\ 1.0\ (01\ february\ 2022)\r\n
+comment1.params=n
+comment1.target=DiceTaken(byte)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DiceTaken\r\n
+comment2.params=
+comment2.target=void\ updateTable()
+comment2.text=\r\n\ Actualiza\ el\ tablero\ deacuerdo\ al\ valor\ de\ los\ dados.\r\n
+comment3.params=i\ j
+comment3.target=void\ lanzar(byte,\ byte)
+comment3.text=\r\n\ Lanza\ de\ nuevo\ un\ dado\ espefico\ para\ obtener\ un\ nuevo\ valor\ o\ el\ mismo.\r\n\ @i\ Posici\u00F3n\ en\ x\r\n\ @j\ Posicion\ en\ y\r\n
+comment4.params=i\ j
+comment4.target=void\ move(byte,\ byte)
+comment4.text=\r\n\ Mueve\ un\ dado\ una\ cantidad\ especifica\ vertical\ y\ horizontalmente.\r\n\ @i\ Posici\u00F3n\ en\ x\r\n\ @j\ Posicion\ en\ y\r\n
+comment5.params=
+comment5.target=void\ isWinner()
+comment5.text=\r\n\ Notofica\ al\ jugador\ que\ cumplio\ el\ objeivo.\r\n
+numComments=6
