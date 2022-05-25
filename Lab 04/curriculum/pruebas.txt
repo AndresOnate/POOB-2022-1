@@ -1,0 +1,4 @@
+TPRO
+Teoria de la programacion
+3
+Al terminar el curso el estudiante debe poder realizar el diseño de algoritmos de alto nivel.
