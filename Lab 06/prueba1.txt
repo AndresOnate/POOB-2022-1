@@ -1,0 +1,13 @@
+Bulb 0 0
+Bulb 0 29
+Conway 5 3
+Conway 5 4
+Conway 14 15
+Conway 15 14
+Conway 15 15
+Conway 15 16
+Conway 16 15
+Conway 28 0
+Conway 28 1
+Conway 29 0
+Conway 29 1

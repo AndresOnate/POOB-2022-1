@@ -1,0 +1,4 @@
+Linea 1: No se encontró la clase NotItem
+Linea 5: No es un entero: NotNumber
+Linea 5: Entero fuera de rango: 80
+Linea 11: Entero fuera de rango: -1
