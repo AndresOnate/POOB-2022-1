@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=fixedDome
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ fixedDome\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=newColor\ positionX\ positionY
+comment1.target=fixedDome(java.lang.String,\ int,\ int)
+numComments=2

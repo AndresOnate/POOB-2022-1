@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=SquareC4Test
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dome\ here.\r\n\ \r\n\ @author\ Nicolas\ Ariza,\ Andres\ O\u00F1ate\r\n\ @version\ 1.0\ (07\ february\ 2022)\r\n
+comment1.params=
+comment1.target=SquareC4Test()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ SquareC4Test\r\n
+comment10.params=
+comment10.target=void\ shouldNotTakeRequestedPhotoOfShyDomes()
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ shouldAddTouristPrudent()
+comment4.params=
+comment4.target=void\ shouldAddTouristPerfectionist()
+comment5.params=
+comment5.target=void\ shouldAddTouristRebel()
+comment6.params=
+comment6.target=void\ shouldNotDelFixedDome()
+comment7.params=
+comment7.target=void\ shouldCreateNormalDomes()
+comment8.params=
+comment8.target=void\ shouldCreateShyDomes()
+comment9.params=
+comment9.target=void\ shouldNotTakePhotoOfShyDomes()
+numComments=11

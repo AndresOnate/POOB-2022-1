@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ShyDome
+comment0.text=\r\n\ ShyDome\ its\ a\ class\ of\ dome\ wich\ is\ sneaky\ when\ a\ tourist\ will\ take\ a\ photo\r\n\ of\ her.\ When\ a\ tourist\ take\ a\ photo\ and\ a\ ShyDome\ is\ in\ the\ vision\ angle\r\n\ she\ will\ hide\ behind\ of\ him\ if\ she\ can\r\n\ \r\n\ @authors\ Nicol\u00E1s\ Ariza\ Barbosa\ and\ Andres\ Camilo\ O\u00F1ate\ Quimbayo\ \r\n\ @version\ 1.0\r\n
+comment1.params=newColor\ positionX\ positionY
+comment1.target=ShyDome(java.lang.String,\ int,\ int)
+numComments=2

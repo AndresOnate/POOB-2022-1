@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ A\ circle\ that\ can\ be\ manipulated\ and\ that\ draws\ itself\ on\ a\ canvas.\r\n\ \r\n\ @author\ \ Michael\ Kolling\ and\ David\ J.\ Barnes\r\n\ @version\ 1.0.\ \ (15\ July\ 2000)\ \r\n
+comment1.params=positionX\ positionY\ newColor
+comment1.target=Circle(int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Circle\r\n
+comment2.params=
+comment2.target=void\ draw()
+numComments=3

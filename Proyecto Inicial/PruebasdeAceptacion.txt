@@ -1,0 +1,62 @@
+Nicolas Ariza
+Andrés Camilo Oñate Quimbayo
+
+Prueba de aceptación:
+
+1. Se  agregar un Square de 400 x 400 con una distancia segura  de 5.
+
+2. Se hace visible.
+
+3. Se pueden agregar domos ("normal", "fixed", "shy")
+"normal","red", 250, 250
+"fixed","black",200,200
+
+4.  Se borra el domo "red" y el "black" (Excepto los "fixed")
+
+5.  Se pueden agregar turistas ("prudent", "perfectionist", "rebel")
+"normal","white", 150, 150
+"perfectionist","red", 350, 350
+"rebel","green", 80,350
+"normal","orange", 250, 250
+"prudent","pink", 250, 259 (2) 300
+¿Turistas? ¿Domos?
+¿Posición de "orange"?
+
+
+6. El turista "white" se mueve a la posicion (300,50) con un angulo de 3*Pi/4 (3*Math.PI/4)
+   El turista "green" se mueve a la posicion (100,300) con un angulo de 7*Pi/4
+
+7. El turista "white" toma una foto
+   El turista "green" toma una foto
+
+8. Se define la foto requerida {"black"}
+    El turista green toma una foto
+
+9. Se termina la simulación.
+
+10.  Se crea un square con los sguienes valores
+	dimensions = {400,400,5}
+	domes = {{200,200},{150,250},{100,150}, {150,80}, {200,280}};
+	desiredView = {1,2,5,4,3}; 
+Un turista llega ("yellow",250,150, 3*Math.PI/4);
+Tenemos domos detras de otros, ¿Como sale la foto?
+Se termina la simuación.
+
+
+11. Se crea un square con los sguienes valores
+	dimensions = {400,400,5}
+	domes = {{30,70},{50,60},{50,40},{30,30}, {20,50}};
+	desiredView = {4, 3, 5, 2, 1}; 
+
+
+Se agrega un turista normal "yellow" en (250,250, Math.PI/4)
+¿El turista puede tomar las fotos requerida?
+Se le dan las instrucciones para que turista tome la foto requerida.
+¿Quien puede tomar la foto?
+Se termina la simuación.
+
+
+
+
+
+

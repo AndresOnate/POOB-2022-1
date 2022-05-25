@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SquareC1Test
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dome\ here.\r\n\ \r\n\ @author\ Nicolas\ Ariza,\ Andres\ O\u00F1ate\r\n\ @version\ 1.0\ (07\ february\ 2022)\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ shouldAddDomes()
+comment3.params=
+comment3.target=void\ shouldDeteleDomes()
+comment4.params=
+comment4.target=void\ shouldAddTourist()
+comment5.params=
+comment5.target=void\ shouldTouristMove()
+comment6.params=
+comment6.target=void\ shouldTouristTakePhoto()
+numComments=7
